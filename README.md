@@ -1,53 +1,53 @@
-# Winhance - Windows Enhancement Utility 🚀
+# Winhance - Windows 增强实用程序 🚀
 
-**Winhance** is a PowerShell GUI application designed to optimize and customize your Windows experience. <br> From software management to system optimizations and customization, Winhance provides functions to enhance Windows 10 and 11 systems.<br><br>**Winhance** features most of the same enhancements as [UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) without needing to do a clean install of Windows.
+**Winhance** 是一款用于优化和自定义 Windows 体验的 PowerShell 图形用户界面应用程序。从软件管理到系统优化和自定义，Winhance 提供了增强 Windows 10 和 11 系统的功能。<br><br>**Winhance** 具有 [UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) 几乎所有的相同增强功能，无需进行Windows的干净安装。
 
 ![image](https://github.com/user-attachments/assets/01b70777-f384-4ba4-8fc1-7dca81250f5a)
 
-## Requirements 💻
+## 要求 💻
 - Windows 11
-  - *Tested on Windows 11 24H2*
-  - *Most things should work on Windows 10 22H2 but there are some issues*
-- Windows PowerShell 5.1 (Preinstalled in above versions)
+  - *已测试 Windows 11 24H2*
+  - *大多数东西应该能在 Windows 10 22H2 上正常工作，但存在一些问题*
+- Windows PowerShell 5.1（预装在上述版本中）
 
-## Usage Instructions 📜
-To use **Winhance**, follow these steps to launch PowerShell as an Administrator and run the installation script:
+## 使用说明 📜
+要使用**Winhance**，请按照以下步骤以管理员身份启动PowerShell并运行安装脚本：
 
-1. **Open PowerShell as Administrator:**
-   - **Windows 10/11**: Right-click on the **Start** button and select **Windows PowerShell (Admin)** or **Windows Terminal (Admin)**
-   - PowerShell will open in a new window.
+1. **以管理员身份打开PowerShell：**
+   - **Windows 10/11**: 右键点击 **开始** 按钮并选择 **Windows PowerShell （管理员）** 或 **Windows 终端 （管理员）**
+   - PowerShell 将在新窗口中打开。
 
-2. **Confirm Administrator Privileges**: 
-   - If prompted by the User Account Control (UAC), click **Yes** to allow PowerShell to run as an administrator.
+2. **确认管理员权限**: 
+   - 如果用户账户控制 (UAC) 提示，点击**是**以允许 PowerShell 以管理员身份运行。
 
-3. **Enable PowerShell Script Execution:**
-   - Run the following command to allow script execution:
+3. **启用PowerShell脚本执行：**
+   - 运行以下命令以允许脚本执行：
    ```powershell
    Set-ExecutionPolicy Unrestricted
    ```
 
-4. **Paste and Run the Command**:
-   - Copy the following command:
+4. **粘贴并运行命令**:
+   - 复制以下命令：
    ```powershell
    irm "https://github.com/memstechtips/Winhance/raw/main/Winhance.ps1" | iex
    ```
-   - To paste into PowerShell, **Right-Click** or press **Ctrl + V** in the PowerShell or Terminal window
-   - Press **Enter** to execute the command
+   - 要粘贴到 PowerShell，请在 PowerShell 或终端窗口中**右键单击**或按**Ctrl + V**
+   - 按下 **Enter** 执行命令
 
-This command will download and execute the **Winhance** application directly from GitHub.
+此命令将直接从GitHub下载并执行**Winhance**应用程序。
 
-## Current Features 🛠️
+## 当前功能 🛠️
 
-### Software & Apps 💿
-- Install Software
-- Remove Windows Apps (Permanently)
+### 软件 & 应用 💿
+- 安装软件
+- 卸载 Windows 应用程序（永久删除）
   - Microsoft Edge
   - OneDrive
   - Recall
   - Copilot
   - Other Useless Windows Bloatware 
 
-### Optimize 🚀
+### 优化 🚀
 - Set UAC Notification Level
 - Disable or Enable Windows Security Suite
 - Privacy Settings
@@ -57,7 +57,7 @@ This command will download and execute the **Winhance** application directly fro
 - Scheduled Tasks
 - Windows Services
 
-### Customize 🎨
+### 自定义 🎨
 - Toggle Windows Dark or Light Mode
 - Taskbar Customization
 - Start Menu Settings
@@ -67,34 +67,34 @@ This command will download and execute the **Winhance** application directly fro
 - Accessibility Options
 - Search Configuration
 
-### About ⓘ
+### 关于 ⓘ
 - About Winhance
 - Author Socials
 - Support Information
 ---
 > [!NOTE]
-> This tool is currently in development. Any issues can be reported using the Issues tab.<br>
-> Also, I'm not a developer, I'm just enjoying learning more about scripting/programming and learning as I go.<br><br>
-> Please also understand that I prefer to develop and work on these projects independently.<br>I do value other people's insights and appreciate any feedback, but don't take it personally if a pull request is not accepted.
+- 此工具当前正在开发中。任何问题都可以通过“问题”标签报告。
+- 此外，我不是开发者，我只是喜欢学习更多关于脚本/编程的知识，并在学习过程中不断进步。
+- 也请理解我更喜欢独立开发和工作于这些项目。<br>我确实重视他人的见解并感谢任何反馈，但如果有拉取请求未被接受，请不要介意。
 
-### Support the Project
+### 支持该项目
 
-If **Winhance** has been useful to you, consider supporting the project—it truly helps!
+如果**Winhance**对您有帮助，请考虑支持该项目——这真的很有帮助！
 
 [![Support via PayPal](https://img.shields.io/badge/Support-via%20PayPal-FFD700?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/memstech)
 
-### Feedback and Community
+### 反馈与社区
 
-If you have feedback, suggestions, or need help with Winhance, please join the discussion on GitHub or our Discord community:
+如果您有反馈、建议，或需要 Winhance 的帮助，请加入我们在 GitHub 或 Discord 社区的讨论：
 
 [![Join the Discussion](https://img.shields.io/badge/Join-the%20Discussion-2D9F2D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/memstechtips/Winhance/discussions)
 [![Join Discord Community](https://img.shields.io/badge/Join-Discord%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.gg/zWGANV8QAX)
 
 ### TODO:
-- Create separate/individual checkboxes for apps that can be removed with some presets. 
-- Implement fix for "can't open links" due to Edge removal. 
-- Fix removal of Legacy MS Edge on Windows 10.
-- Implement jobs/background tasks for long running tasks. 
-- Implement better WinGet installation on Windows 10.
-- Add a "create Winhance desktop shortcut" option.
+- 为可以使用某些预设移除的应用程序创建单独/个别的复选框。 
+- 实施修复“无法打开链接”问题的解决方案，原因是Edge已被移除。 
+- 修复Windows 10上删除旧版MS Edge的问题。
+- 实现用于长时间运行任务的后台作业。 
+- 在Windows 10上实现更好的WinGet安装。
+- 添加“创建Winhance桌面快捷方式”选项。
 ---
