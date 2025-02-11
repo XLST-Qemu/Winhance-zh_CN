@@ -2,7 +2,7 @@
 
 **Winhance** 是一款用于优化和自定义 Windows 体验的 PowerShell 图形用户界面应用程序。从软件管理到系统优化和自定义，Winhance 提供了增强 Windows 10 和 11 系统的功能。<br><br>**Winhance** 具有 [UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) 几乎所有的相同增强功能，无需进行Windows的干净安装。
 
-![image](https://github.com/user-attachments/assets/01b70777-f384-4ba4-8fc1-7dca81250f5a)
+![image](https://github.com/XLST-Qemu/images/Winhance1.png)
 
 ## 要求 💻
 - Windows 11
