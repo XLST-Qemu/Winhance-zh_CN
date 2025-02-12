@@ -29,7 +29,7 @@
 4. **粘贴并运行命令**:
    - 复制以下命令：
    ```powershell
-   irm "https://github.com/memstechtips/Winhance/raw/main/Winhance.ps1" | iex
+   irm "https://github.com/XLST-Qemu/Winhance-zh_CN/raw/main/Winhance-zh_CN-XLST.ps1" | iex
    ```
    - 要粘贴到 PowerShell，请在 PowerShell 或终端窗口中**右键单击**或按**Ctrl + V**
    - 按下 **Enter** 执行命令
@@ -43,34 +43,34 @@
 - 卸载 Windows 应用程序（永久删除）
   - Microsoft Edge
   - OneDrive
-  - Recall
+  - 回顾
   - Copilot
-  - Other Useless Windows Bloatware 
+  - 其他无用的Windows臃肿软件 
 
 ### 优化 🚀
-- Set UAC Notification Level
-- Disable or Enable Windows Security Suite
-- Privacy Settings
-- Gaming Optimizations
-- Windows Updates
-- Power Settings
-- Scheduled Tasks
-- Windows Services
+- 设置UAC通知级别
+- 禁用或启用 Windows 安全套件
+- 隐私设置
+- 游戏优化
+- Windows 更新
+- 电源设置
+- 计划任务
+- Windows 服务
 
 ### 自定义 🎨
-- Toggle Windows Dark or Light Mode
-- Taskbar Customization
-- Start Menu Settings
-- Explorer Options
-- Notification Preferences
-- Sound Settings
-- Accessibility Options
-- Search Configuration
+- 切换 Windows 深色或浅色模式
+- 任务栏自定义
+- 开始菜单设置
+- 资源管理器选项
+- 通知偏好设置
+- 音频设置
+- 无障碍选项
+- 搜索配置
 
 ### 关于 ⓘ
-- About Winhance
-- Author Socials
-- Support Information
+- 关于 Winhance
+- 作者社交账号
+- 支持信息
 ---
 > [!NOTE]
 - 此工具当前正在开发中。任何问题都可以通过“问题”标签报告。
