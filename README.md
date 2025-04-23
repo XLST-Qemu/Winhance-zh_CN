@@ -12,7 +12,7 @@
 
 ## 使用说明 📜
 要使用**Winhance**，请按照以下步骤以管理员身份启动PowerShell并运行安装脚本：
-
+！如果您需要使用中文版Winhance，我建议您下载源文件并将其转为Chinese(***)编码，以编码乱码问题。
 1. **以管理员身份打开PowerShell：**
    - **Windows 10/11**: 右键点击 **开始** 按钮并选择 **Windows PowerShell （管理员）** 或 **Windows 终端 （管理员）**
    - PowerShell 将在新窗口中打开。
@@ -29,7 +29,7 @@
 4. **粘贴并运行命令**:
    - 复制以下命令：
    ```powershell
-   irm "https://github.com/XLST-Qemu/Winhance-zh_CN/raw/main/Winhance-zh_CN-XLST.ps1" | iex
+   irm "https://github.com/XLST-Qemu/Winhance-zh_CN/raw/main/Winhance.ps1" | iex
    ```
    - 要粘贴到 PowerShell，请在 PowerShell 或终端窗口中**右键单击**或按**Ctrl + V**
    - 按下 **Enter** 执行命令
