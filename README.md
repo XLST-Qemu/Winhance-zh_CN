@@ -10,7 +10,7 @@
 
 ## 安装 📥
 
-Download from [winhance.net](https://winhance.net) or the [Releases](https://github.com/memstechtips/Winhance/releases) section of this repository.
+从 [winhance.net](https://winhance.net) 或 [Releases]([https://github.com/XLST-Qemu/Winhance-zh_CN/releases]) 下载.
 
 ## 🔐 Winhance v25.05.22 安全信息
 
