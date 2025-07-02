@@ -1,164 +1,158 @@
-# Winhance - Windows Enhancement Utility 🚀
+# Winhance - Windows 增强实用程序 🚀
 
-**Winhance** is a C# application designed to optimize and customize your Windows experience. From software management to system optimizations and customization, Winhance provides functions to enhance Windows 10 and 11 systems.
+**Winhance** 是一个C#应用程序，旨在优化和自定义您的Windows体验。从软件管理到系统优化和定制，Winhance提供了增强Windows 10和11系统的功能。
 
-**Winhance** features most of the same enhancements as [UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) without needing to do a clean install of Windows.
+**Winhance**具有与 [UnattendedWinstall] 相同的大部分增强功能 (https://github.com/memstechtips/UnattendedWinstall) 无需进行Windows的全新安装。
 
-## Requirements 💻
+## 要求💻
 - Windows 10/11
-  - *Tested on Windows 10 x64 22H2 and Windows 11 24H2*
+  -*已在Windows 10 x64 22H2 和 Windows 11 24H2上测试*
 
-## Installation 📥
+## 安装 📥
 
 Download from [winhance.net](https://winhance.net) or the [Releases](https://github.com/memstechtips/Winhance/releases) section of this repository.
 
-The `Winhance.Installer.exe` includes an Installable and Portable version during setup.
+## 🔐 Winhance v25.05.22 安全信息
 
-## 🔐 Winhance v25.05.22 Security Info
+**重要提示：** 请使用以下信息验证您的下载。此特定版本的任何具有不同值的文件都不是来自官方来源。
 
-**Important:** Please verify your download using the information below. Any file with different values for this particular version is not from the official source.
+- **Winhance汉化版-XLST.exe**
+  - 大小：20.1MB  
+  - SHA256: D3C4FDF22BDFCB4927BDC706B4424A1ED840EDF8DA196A5D58143D362AC7C217  
 
-- **Winhance.Installer.exe**
-  - Size: 131223680 bytes : 125 MiB  
-  - SHA256: 5f20b7be5741ce37a8663041ae8228c28e45b32f7ca260036c34c38e436e634c  
+>[！注意]
+>该工具目前正在开发中。任何问题都可以使用“问题”选项卡报告。<br>
+>此外，我不是开发人员，我只是喜欢在学习过程中学习更多关于脚本/编程的知识。<br><br>
+>也请理解，我更喜欢独立开发和处理这些项目。<br>我确实重视其他人的见解，并感谢任何反馈，但如果拉取请求未被接受，请不要把它当作私人恩怨。
 
-- **Winhance.exe**
-  - Size: 165248 bytes : 161 KiB  
-  - SHA256: 58e1fc0707f25e71738388817b397cdb98aa8037b0c275424b6f56c74bc56b05  
+## 支持开发者
 
-> [!NOTE]
-> This tool is currently in development. Any issues can be reported using the Issues tab.<br>
-> Also, I'm not a developer, I'm just enjoying learning more about scripting/programming and learning as I go.<br><br>
-> Please also understand that I prefer to develop and work on these projects independently.<br>I do value other people's insights and appreciate any feedback, but don't take it personally if a pull request is not accepted.
-
-## Support the developer
-
-It really does make a big difference, and is very much appreciated. Thanks<br>
+这确实产生了很大的影响，我们非常感激。谢谢<br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/memstechtips)
 
-## Current Features 🛠️
+## 当前功能 🛠️
 
-### Software & Apps 💿
-- **Windows Apps & Features Section**
-  - Searchable interface with explanatory legend
-  - Organized sections for Windows Apps, Legacy Capabilities, and Optional Features
-  - One-click removal and installation of selected items
-- **External Apps Section**
-  - Install various useful applications via WinGet
-  - Categories include Browsers, Multimedia utilities, Document viewers, and more
+### 软件和应用程序💿
+-**Windows应用程序和功能部分**
+ -带有解释性图例的可搜索界面
+ -Windows应用程序、传统功能和可选功能的组织部分
+ -一键删除和安装所选项目
+-**外部应用程序部分**
+ -通过WinGet安装各种有用的应用程序
+ -类别包括浏览器、多媒体实用程序、文档查看器等
 
-### Optimize 🚀
-- Searchable interface with status indicators
-- Toggle switches for each setting for better control
-- Set UAC Notification Level
-- Privacy Settings
-- Gaming and Performance Optimizations
-- Windows Updates
-- Explorer Optimizations
-- Power Settings with Power Plan selection
-- Sound Settings
-- Notification Preferences
+### 优化🚀
+-带有状态指示器的可搜索界面
+-为每个设置切换开关，以实现更好的控制
+-设置UAC通知级别
+-隐私设置
+-游戏和性能优化
+-Windows更新
+-浏览器优化
+-电源设置和电源计划选择
+-声音设置
+-通知首选项
 
-### Customize 🎨
-- Searchable interface with status indicators
-- Toggle switches for each setting for better control
-- Windows Theme selector (Dark/Light Mode) via dropdown
-- Taskbar Customization
-- Start Menu Customization
-- Explorer Customizations
+### 自定义🎨
+-带有状态指示器的可搜索界面
+-为每个设置切换开关，以实现更好的控制
+-通过下拉菜单选择Windows主题（暗/亮模式）
+-任务栏自定义
+-开始菜单自定义
+-资源管理器自定义
 
-### Other Settings 
-- Manage Your Winhance (and Windows) Settings with Wihance Configuration Files:
-   - Save settings currently applied in Winhance to a config file for easy importing on a new system or after a fresh Windows install.
-- Toggle Winhance's theme (Light/Dark Mode)
+### 其他设置
+-使用Wihance配置文件管理您的Winhance（和Windows）设置：
+-将Winhance中当前应用的设置保存到配置文件中，以便在新系统上或新安装Windows后轻松导入。
+-切换Winhance的主题（亮/暗模式）
 
-## 🗺️ ROADMAP/TODO
-The items below are planned changes and features for future releases.
+## 🗺️ 路线图/待办事项
+以下项目是未来版本的计划更改和功能。
 
-🔜 = Coming Soon
-⌛ = In Progress
-✅ = Completed
+🔜 = 马上就来
+⌛=进行中
+✅ = 完成
 
-Note: ✅ Completed items are commited to the source code files, but the changes will not be visible in the application until the next release or update is released to the application.
+注：✅ 已完成的项目将提交到源代码文件中，但在下一个版本或更新发布到应用程序之前，更改在应用程序中不可见。
 
-### Winhance Installation
-⌛ Add a Winhance Winget package to make Winhance installable via WinGet. Issue #159  
-🔜 Add Winhance to the Microsoft Store.  
+### Winhance安装
+⌛添加Winhance Winget软件包，使Winhance可以通过Winget安装。第159期
+🔜 将Winhance添加到Microsoft应用商店。  
 
-### Main Window
+### 主窗口
 
-#### Config Import
-🔜 Improve Config Import to have checkboxes for sub sections in each category 
-🔜 Add a Invert Select option #168
-
-
-### Software & Apps Screen
-
-🔜 Add detection of installed apps and update notifications for those apps     
-🔜 Add an option to enable and Activate Windows Photo Viewer. Issue #135  
-⌛ Refactor app removal implementation to increase speed of app removals.  
-⌛ Fix incorrect (failure) dialog being shown when a single app installation is cancelled.  
-
-#### Windows Apps & Features
-🔜 Add Icons next to the "Winhance Removal Status" that when clicked, deletes the scripts and scheduled tasks that are present when Winhance was previously run (ie. BloatRemoval.ps1, EdgeRemoval.ps1 and OneDriveRemoval.ps1)  
-🔜 Rework EdgeRemoval script so it doesn't uninstall WebView. Also, update WebView installation  
-🔜 Fix "We can't open this 'microsoft-edge' link" due to edge removal and no default browser found. Issue #38  
-⌛ Features/apps still auto-removed even after I select and (re)install them from Winhance #175
-
-#### External Software
-🔜 For app installations, give users the option to choose a location to install the application. Issue #160  
-🔜 Add a "website" icon next to each app in external software that will take the user to the specific app's webpage so users can get more info about the app before installing it. Issue #152  
-🔜 Status Feature for External Software: Similar to Windows software, add a status feature for external applications to indicate whether they are installed. If installed, show if updates are available (updates indicator for windows softwares as well). Issue #142  
-🔜 Indicator for App Purchases: Include an indicator for apps to show if they are completely free, partially free/paid, and completely paid. Issue #142  
-🔜 Add ability to select the programs that users currently have installed on their computers to the external apps section and that they can be added to the config file. Issue #165 
-🔜 Add some Software #170   
-🔜 Add Meld to Development Apps #149  
+#### 配置导入
+🔜 改进配置导入，为每个类别中的子部分设置复选框
+🔜 添加反转选择选项#168
 
 
-### Optimize Screen
+### 软件和应用程序屏幕
 
-#### Power Management
-🔜 Improve the power section to detect all power plans on the pc and add indicators next to each power plan in the dropdown menu showing what currently exists  
-🔜 Improve the power section to have toggles that toggle the powercfg commands on the currently applied power plan (currently, importing the Ultimate Performance powerplan just automatically applies all "recommended" powercfg commands but there is no control over it) This will also fix #84  
+🔜 添加已安装应用的检测功能，并为这些应用添加更新通知
+🔜 添加一个选项以启用和激活Windows照片查看器。第135期
+⌛重构应用程序删除实现，以提高应用程序删除速度。  
+⌛修复取消单个应用程序安装时显示的错误（失败）对话框。  
 
-#### Gaming & Performance
-🔜 Review the "Mouse" related settings and why Enhance mouse precision won't work anymore due to mouse related tweaks in the gaming section. Issue #13  
-🔜 Consider adding preset options in optimizations tab like "Minimal, recommended and extreme optimizations" (This can also be done with preset config files if developed and shared.)  
+#### Windows应用程序和功能
+🔜 在“Winhance删除状态”旁边添加图标，单击图标时，会删除以前运行Winhance时存在的脚本和计划任务（即BloatRemoval.ps、EdgeRemoval.sp和OneDriveRemoval.ps1）
+🔜 重写EdgeRemoval脚本，使其不会卸载WebView。此外，更新WebView安装
+🔜 修复由于边缘删除且找不到默认浏览器而导致的“我们无法打开此'microsoft edge'链接”。第38期
+⌛即使在我从Winhance选择并（重新）安装功能/应用程序后，它们仍然会自动删除#175
 
-#### Explorer Improvements 
-🔜 Toggle to remove the "open in terminal" option from right click context menu. Issue #162  
-🔜 Add toggles to remove "-Shortcut" Text, Disable Always Ask Before Opening. Issue #135   
-
-### Customize Screen
-
-#### Taskbar
-🔜 Fix News & Interests/Widgets/Weather icon not being removed from the Taskbar due to being a protected registry key.
-
-#### Explorer
-⌛ FR: enable end task to taskbar right click menu in win 11 #177  
-⌛ Disable translucent selection rectangle not working in windows 11 file explorer #173  
-
-
-### Other General Requests, Features & Issues
-🔜 Debloat ink handwriting main store. Issue #65  
-🔜 Add old F8 Menu to startup screen  
-🔜 Can't type in Start Menu search bar. (This is due to tweaks included in the first version of Winhance, need to investigate). Issue #25  
-🔜 Add translations for different languages (not currently a top priority). Issue #51  
-⌛ Posting Template & Wiki. Issue #91  
-  - Posting Template Implemented. Wiki will be created in the future.
-🔜 Disable windows search indexing tool. Issue #74 
-🔜 Add the Commandline Run option #172  
-🔜 Add an Option to change the Mousepointer Size and Color #171
+#### 外部软件
+🔜 对于应用程序安装，用户可以选择安装应用程序的位置。问题#160
+🔜 在外部软件中的每个应用程序旁边添加一个“网站”图标，将用户带到特定应用程序的网页，以便用户在安装应用程序之前获得有关应用程序的更多信息。问题#152
+🔜 外部软件的状态功能：与Windows软件类似，为外部应用程序添加状态功能，以指示它们是否已安装。如果已安装，则显示是否有可用的更新（windows软件的更新指示器也是如此）。第142期
+🔜 应用购买指标：包括一个应用指标，显示它们是完全免费、部分免费/付费还是完全付费。第142期
+🔜 将选择用户当前已安装在其计算机上的程序的功能添加到外部应用程序部分，并将其添加到配置文件中。第165期
+🔜 添加一些软件#170
+🔜 将Meld添加到开发应用程序#149  
 
 
+### 优化屏幕
 
-#### UI Improvements
-🔜 Update tooltips to be more descriptive about what a toggle does  
+#### 电源管理
+🔜 改进电源部分，以检测电脑上的所有电源计划，并在下拉菜单中的每个电源计划旁边添加指示灯，显示当前存在的内容
+🔜 改进电源部分，使其具有切换当前应用的电源计划上的powercfg命令的开关（目前，导入终极性能电源计划只会自动应用所有“推荐”的powercfg指令，但无法控制）。这也将修复#84
+
+#### 游戏与性能
+🔜 查看与“鼠标”相关的设置，以及为什么由于游戏部分中与鼠标相关的调整，增强鼠标精度不再有效。问题#13
+🔜 考虑在优化选项卡中添加预设选项，如“最小、推荐和极端优化”（如果已开发和共享，也可以使用预设配置文件完成此操作。）
+
+#### 浏览器改进
+🔜 切换以从右键单击上下文菜单中删除“在终端中打开”选项。第162期
+🔜 添加切换以删除“-快捷方式”文本，禁用打开前始终询问。第135期
+
+### 自定义屏幕
+
+#### 任务栏
+🔜 修复新闻和兴趣/小部件/天气图标由于是受保护的注册表项而未从任务栏中删除的问题。
+
+#### 资源管理器
+⌛FR：在win11#177中启用任务栏右键菜单的结束任务
+⌛禁用在windows 11文件资源管理器中不起作用的半透明选择矩形#173  
 
 
-## Feedback and Community
+### 其他一般要求、功能和问题
+🔜 墨迹可能被保留。第65期
+🔜 将旧的F8菜单添加到启动屏幕
+🔜 无法在“开始”菜单搜索栏中键入。（这是由于Winhance第一个版本中包含的调整，需要调查）。问题#25
+🔜 添加不同语言的翻译（目前不是首要任务）。第51期
+⌛发布模板和维基。第91期
+-已实现发布模板。Wiki将在未来创建。
+🔜 禁用windows搜索索引工具。第74期
+🔜 添加命令行运行选项#172
+🔜 添加更改鼠标指针大小和颜色的选项#171
 
-If you have feedback, suggestions, or need help with Winhance, please join the discussion on GitHub or our Discord community:
 
-[![Join the Discussion](https://img.shields.io/badge/Join-the%20Discussion-2D9F2D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/memstechtips/Winhance/discussions/183)
-[![Join Discord Community](https://img.shields.io/badge/Join-Discord%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.gg/zWGANV8QAX)
+
+#### UI改进
+🔜 更新工具提示，以更详细地描述切换的功能
+
+
+## 反馈和社区
+
+如果您对Winhance有任何反馈、建议或需要帮助，请加入GitHub或我们的Discord社区的讨论：
+
+[![加入讨论](https://img.shields.io/badge/Join-the%20Discussion-2D9F2D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/memstechtips/Winhance/discussions/183)
+[![加入 Discord 社区](https://img.shields.io/badge/Join-Discord%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.gg/zWGANV8QAX)
