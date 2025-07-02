@@ -10,13 +10,13 @@
 
 ## 安装 📥
 
-从 [winhance.net](https://winhance.net) 或 [Releases]([https://github.com/XLST-Qemu/Winhance-zh_CN/releases]) 下载.
+从 [winhance.net](https://winhance.net) 或 [Releases](https://github.com/XLST-Qemu/Winhance-zh_CN/releases) 下载.
 
 ## 🔐 Winhance v25.05.22 安全信息
 
 **重要提示：** 请使用以下信息验证您的下载。此特定版本的任何具有不同值的文件都不是来自官方来源。
 
-- **Winhance汉化版-XLST.exe**
+- **Winhance.zh_CN-XLST.exe**
   - 大小：20.1MB  
   - SHA256: D3C4FDF22BDFCB4927BDC706B4424A1ED840EDF8DA196A5D58143D362AC7C217  
 
